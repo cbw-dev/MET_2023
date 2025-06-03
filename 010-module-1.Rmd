@@ -1,13 +1,8 @@
 # (PART) Modules {-}
 
-# Module 1
+# Module 1: Introduction to Metabolomics
 
 ## Lecture
 
-<!--<iframe width="640" height="360" src="YOUTUBE EMBED LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![Module 1: Introduction to Metabolomics lecture slides](content-files/CBW-Metabolomics-2023-Module1.pptx.pdf){width=640% height=480}\ 
 -->
-
-<!--<iframe src="GOOGLE SLIDES LINK/preview" width="640" height="480" allow="autoplay"></iframe>  
--->
-
-## Lab

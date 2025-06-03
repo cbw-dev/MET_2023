@@ -1,0 +1,6 @@
+# Module 7: Metabolomics Data Analysis using MetaboAnalyst 5.0
+
+## Lab
+
+![Module 7: Metabolomics Data Analysis using MetaboAnalyst 5.0 lab slides](content-files/CBW_MET_2023_Module7_Lab.pptx.pdf){width=640% height=480}\ 
+-->

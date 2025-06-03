@@ -1,6 +1,6 @@
-# Module 2
+# Module 2: Targeted, Quantitative Metabolomics
 
 ## Lecture
 
-
-## Lab
+![Module 2: Targeted, Quantitative Metabolomics lecture slides](content-files/CBW-Metabolomics-2023-Module2_Final.pptx.pdf){width=640% height=480}\ 
+-->

@@ -1,0 +1,7 @@
+# Module 5: Backgroun in Omics Data Science
+
+## Lecture
+
+![Module 5: Backgroun in Omics Data Science lecture slides](content-files/CBW_MET_2023_Module5.pdf){width=640% height=480}\ 
+-->
+

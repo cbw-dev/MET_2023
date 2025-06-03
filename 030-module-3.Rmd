@@ -1,6 +1,8 @@
-# Module 3
-
-## Lecture
-
+# Module 3: Quantitative Metabolomics
 
 ## Lab
+
+![Module 3: Quantitative Metabolomics lab slides](content-files/CBW-Metabolomics-2023-Module3_Final_Final.pdf){width=640% height=480}\ 
+-->
+
+

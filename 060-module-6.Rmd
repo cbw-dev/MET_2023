@@ -1,0 +1,6 @@
+# Module 6: Data Analytics for Untargeted Metabolomics
+
+## Lecture
+
+![Module 6: Data Analytics for Untargeted Metabolomics lecture slides](content-files/CBW_MET_2023_Module6.pdf){width=640% height=480}\ 
+-->

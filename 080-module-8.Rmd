@@ -1,0 +1,7 @@
+# Module 8: Integrating Metabolomics with Other Omics
+
+## Lecture
+
+![Module 8: Integrating Metabolomics with Other Omics lecture slides](content-files/CBW_MET_2023_Module8.pptx.pdf){width=640% height=480}\ 
+-->
+
