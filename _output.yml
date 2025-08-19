@@ -21,20 +21,20 @@ bookdown::gitbook:
       after: |
         <h1 id="sponsors">Sponsors</h1>
         <center>
+        <a href="https://genomecanada.ca/"><img src="img/sponsors/genomecanada.png" height="70" style="display:inline-block;"  style="padding-bottom: 20px" alt="Genome Canada logo.">
+        <a href="https://www.ontariogenomics.ca/"><img src="img/sponsors/ontariogenomics.png" height="70" style="display:inline-block;" style="padding-bottom: 20px;" alt="Ontario Genomics logo.">
+        <br><br>
         <a href="https://oicr.on.ca/"><img src="img/sponsors/oicr.png" width=25% style="display:inline-block;" style="padding-bottom: 20px" alt="Ontario Institute for Cancer Research logo.">
         <a href="https://www.hpcforhealth.ca/"><img src="img/sponsors/hpc4health.png" width=60% style="display:inline-block;" style="padding-bottom: 20px "alt="HPC4Health logo.">
         <br><br>
-        <a href="https://computationalgenomics.ca/"><img src="img/sponsors/computationalgenomics.png" height="70" style="display:inline-block;"  style="padding-bottom: 20px" alt="Canadian Centre for Computational Genomics logo.">
-        <a href="https://genomecanada.ca/"><img src="img/sponsors/genomecanada.png" height="70" style="display:inline-block;"  style="padding-bottom: 20px" alt="Genome Canada logo.">
+        <a href="https://computationalgenomics.ca/"><img src="img/sponsors/computationalgenomics.png" style="display:inline-block;" width=35% style="padding-bottom: 20px" alt="Canadian Centre for Computational Genomcis logo.">
+        <a href="https://www.mdpi.com/journal/metabolites?ci=28767&si=23914&_utm_from=f6c8c977b1"><img src="img/sponsors/metabolites.png" style="display:inline-block;" width=35% style="padding-bottom: 20px" alt="Metabolites logo.">
         <br><br>
-        <a href="https://www.ontariogenomics.ca/"><img src="img/sponsors/ontariogenomics.png" height="70" style="display:inline-block;" style="padding-bottom: 20px;" alt="Ontario Genomics logo.">
-        <a href="https://www.mdpi.com/journal/metabolites?ci=28767&si=23914&_utm_from=f6c8c977b1"><img src="img/sponsors/metabolites.png" height="70" style="display:inline-block;" style="padding-bottom: 20px;" alt="Metabolites logo.">
-        <br><br>
-        <a href="https://metabolomicscentre.ca/"><img src="img/sponsors/metabolicscentre.png" style="display:inline-block;" width=35% style="padding-bottom: 20px" alt="Metabolics Centre logo."> <!--- replace the directory with your sponsor logo --->
+        <a href="https://metabolomicscentre.ca/"><img src="img/sponsors/metabolicscentre.png" style="display:inline-block;" width=35% style="padding-bottom: 20px" alt="Metabolics Centre logo.">
 
 
     # YOU MUST REPLACE THE LINK BELOW - This is a link to your index.Rmd on your GitHub repo, which allows people to make suggestions
-    edit: https://github.com/cbw-dev/MET_2023/blob/main/%s # Go to your index.Rmd page on GitHub, copy and paste the link to it, and add
+    edit: https://github.com/bioinformaticsdotca/MET_2023/blob/main/%s # Go to your index.Rmd page on GitHub, copy and paste the link to it, and add
     # Steps:
     # 1. Go to your index.Rmd page on GitHub, Copy and paste the link to it.
     # 2. Copy and paste the link to it, excluding the "index.Rmd" ending.
