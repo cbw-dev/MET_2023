@@ -2,13 +2,14 @@
 
 #### David Wishart
 
-<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Photo of NAME">
+<img src="./img/faculty/david-wishart.png" width="200" alt="Photo of David Wishart">
 
 >Distinguished University Professor of Biological Science and Computing Science <br>
 University of Alberta <br>
 Edmonton, AB, CA <br>
-dwishart@ualberta.ca <br>
-www.wishartlab.com
+>
+> --- dwishart@ualberta.ca <br>
+[www.wishartlab.com](www.wishartlab.com)
 
 David was one of the co-founders of the CBW in 1998. He has active research interests in the
 application of bioinformatics and statistics to a wide range of computational biology problems,
@@ -19,13 +20,14 @@ electrical engineering group.
 
 #### Jianguo (Jeff) Xia
 
-<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Jianguo Xia photo">
+<img src="./img/faculty/jianguo-xia.png" width="200" alt="Photo of Jianguo Xia">
 
 >Canada Research Chair in Bioinformatics and Big Data Analysis <br>
 Institute of Parasitology, McGill University <br>
 Montréal, QC, CA <br>
-jeff.xia@cmgill.ca <br>
-www.xialab.ca
+>
+> --- jeff.xia@cmgill.ca <br>
+[www.xialab.ca](www.xialab.ca)
 
 Jeff has a broad background in medicine, immunology and bioinformatics. He has been involved
 in CBW since 2011. Jeff has active research interests in metabolomics, transcriptomics,
@@ -34,12 +36,13 @@ analytics via web/cloud - based platforms and visualization.
 
 #### Zhiqiang Pang
 
-<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Zhiqiang Pang photo">
+<img src="./img/faculty/zhiqiang-pang.png" width="200" alt="Photo of Zhiqiang Pang">
 
 >PhD Candidate <br>
 Institute of Parasitology, McGill University <br>
 Montréal, QC, CA <br>
-zhiqiang.pang@mail.mcgill.ca <br>
+>
+> --- zhiqiang.pang@mail.mcgill.ca
 
 Zhiqiang is a PhD candidate in the Xia Lab at McGill University.
 He graduated from Jilin University with his Bachelor's degree from
@@ -50,12 +53,13 @@ interactions.
 
 #### Jessica Ewald
 
-<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Jessica Ewald photo">
+<img src="./img/faculty/jessica-ewald.png" width="200" alt="Photo of Jessica Ewald">
 
 >Postdoctoral Fellow <br>
 Institute of Parasitology, McGill University <br>
 Montréal, QC, CA <br>
-jessica.ewald@mail.mcgill.ca <br>
+>
+> --- jessica.ewald@mail.mcgill.ca
 
 Jessica is a postdoctoral fellow in the Xia Lab at McGill University
 where she is currently studying multi-omics integration. Her
@@ -67,12 +71,13 @@ and ecosystem health.
 
 #### Lun (Allen) Zhang
 
-<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Lun Zhang photo">
+<img src="./img/faculty/lun-zhang.png" width="200" alt="Photo of Lun Zhang">
 
 >Research Associate <br>
 Department of the Biological Sciences, University of Alberta <br>
 Edmonton, AB, CA <br>
-lun2@ualberta.ca <br>
+>
+> --- lun2@ualberta.ca
 
 Dr. Lun Zhang is a Research Associate in the Wishart lab at the
 University of Alberta. Since joining the lab in 2017, he has mainly
@@ -83,12 +88,13 @@ colorectal cancer and polyps.
 
 #### Mark Berjanskii
 
-<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Mark Berjanskii photo">
+<img src="./img/faculty/mark-berjanskii.png" width="200" alt="Photo of Mark Berjanskii">
 
 >Research Associate <br>
 Department of the Biological Sciences, University of Alberta <br>
 Edmonton, AB, CA <br>
-mb1@ualberta.ca <br>
+>
+> --- mb1@ualberta.ca
 
 Mark obtained a Ph.D. in Biochemistry at University of
 Missouri-Columbia, USA. Mark's research interests include NMR
@@ -104,12 +110,13 @@ bioinformatic analysis and NMR metabolomics.
 
 #### Michelle Brazas
 
-<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Michelle photo">
+<img src="./img/faculty/michelle-brazas.jpg" width="200" alt="Photo of Michelle Brazas">
 
 >Acting Scientific Director <br>
 Canadian Bioinformatics Workshop (CBW) <br>
 Toronto, ON, CA <br>
-supporting@bioinformatics.ca <br>
+>
+> --- supporting@bioinformatics.ca
 
 Dr. Michelle Brazas is the Associate Director for Adaptive Oncology at
 the Ontario Institute for Cancer Research (OICR), and acting Scientific
@@ -121,12 +128,13 @@ Directors and Executive Board.
 
 #### Nia Hughes
 
-<img src="./img/faculty/MISSINGHEADSHOT.PNG" width="200" alt="Michelle photo">
+<img src="./img/faculty/nia-hughes.jpeg" width="200" alt="Photo of Nia Hughes">
 
 >Program Manager, Bioinformatics.ca <br>
 Ontario Institute for Cancer Research (CBW) <br>
 Toronto, ON, CA <br>
-nia.hughes@oicr.on.ca <br>
+>
+> --- nia.hughes@oicr.on.ca
 
 Nia is the Program Manager for Bioinformatics.ca, where she coordinates
 the Canadian Bioinformatics Workshop Series. Prior to starting at OICR, she completed her

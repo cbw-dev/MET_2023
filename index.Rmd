@@ -1,6 +1,6 @@
 --- 
 title: "Metabolomics 2023"
-author: "Faculty: David Wishart, Jianguo Xia, Zhiqiang Pang, Jessica Ewald, Lun Zhang, Mark Berkjanskii, Michelle Brazas, Nia Hughes"
+author: "Faculty: David Wishart, Jianguo Xia, Zhiqiang Pang, Jessica Ewald, Lun Zhang, Mark Berkjanskii, Michelle Brazas, and Nia Hughes"
 date: "July 6, 2023 - July 7, 2023"
 site: bookdown::bookdown_site
 documentclass: book
