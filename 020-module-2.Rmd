@@ -2,5 +2,9 @@
 
 ## Lecture
 
-![Module 2: Targeted, Quantitative Metabolomics lecture slides](content-files/CBW-Metabolomics-2023-Module2_Final.pptx.pdf){width=640% height=480}\ 
--->
+<iframe width="640" height="360" src="https://www.youtube.com/embed/ziqTuFX-yrM?si=YRABqWhsBliL8V82" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+<iframe src="https://drive.google.com/file/d/1VWYCWI2yzGgmVzUyYc_4aK4rTpj5kFTe/preview" width="640" height="480" allow="autoplay"></iframe>
+

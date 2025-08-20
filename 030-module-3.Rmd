@@ -2,7 +2,10 @@
 
 ## Lab
 
-![Module 3: Quantitative Metabolomics lab slides](content-files/CBW-Metabolomics-2023-Module3_Final_Final.pdf){width=640% height=480}\ 
--->
+<iframe width="640" height="360" src="https://www.youtube.com/embed/35KOK0QkMSU?si=bvXx_RSznr4Q7Gqx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+<iframe src="https://drive.google.com/file/d/1tvXF8oKJGgoW9wogusZwA2szGbG6YpeK/preview" width="640" height="480" allow="autoplay"></iframe>
 
 

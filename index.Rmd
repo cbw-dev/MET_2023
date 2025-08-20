@@ -26,34 +26,33 @@ Welcome to the 2023 Metabolomics Canadian Bioinformatics Workshop webpage!
 
 ### Edmonton
 
-| Time (EDT) | June 13                                                                             | Time (EDT) | June 14                                                           |
-|------------|-------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------|
-| 8:30       | Arrivals & Check-in                                                                 | 8:30       | Arrivals                                                          |
-| 9:00       | Welcome (Nia Hughes)                                                                | 9:00       | Day 1 review Linear mixed models and evaluation (Shraddha Pai)    |
-| 9:30       | Exploratory data analysis and introducing clustering (Shraddha Pai)                 | 10:00      | Break (30 mins)                                                    |
-| 10:30      | Break (30 mins)                                                                       | 10:30      | Short linear model exercise (Shraddha Pai, Ian Cheong)            |
-| 11:00      | Exploratory data analysis and clustering project (Shraddha Pai, Ian Cheong)         | 12:30      | Class photo + Lunch (1 hr)                                          |
-| 13:00      | Lunch (1 hr)                                                                          | 13:30      | Bioconductor for differential expression (Shraddha Pai)           |
-| 14:00      | Dimensionality reduction (Chaitra Sarathy)                                          | 14:30      | Break (30 mins)                                                    |
-| 15:00      | Break (30 mins)                                                                      | 15:00      | Short differential expression exercise (Shraddha Pai, Ian Cheong) |
-| 15:30      | Short dimensionality reduction and clustering project (Chaitra Sarathy, Ian Cheong) | 17:00      | Survey & Closing Remarks                                          |
-| 17:30      | Finished                                                                            | 17:30      | Finished                                                          |
+| **Time (Mountain)** |                             **July 6**                            | **Time (Mountain)** |                                   **July 7**                                  |
+|:-------------------:|:-----------------------------------------------------------------:|:-------------------:|:-----------------------------------------------------------------------------:|
+|         8:00        |                        Arrivals & Check-in                        |         8:00        |                                    Arrivals                                   |
+|         8:30        |                        Welcome (Nia Hughes)                       |         8:30        |                                                                               |
+|         9:00        |       Module 1: Introduction to Metabolomics (David Wishart)      |         9:00        |            Module 5: Backgrounder in Omics Data Science (Jeff Xia)            |
+|        10:30        |                          Break (45 mins)                          |        10:30        |                                Break (45 mins)                                |
+|        11:15        |   Module 2: Targeted, Quantitative Metabolomics (David Wishart)   |        11:15        |              Module 6: Data Analytics for Untargeted Metabolomics             |
+|        12:15        |                          Lunch (45 mins)                          |        12:15        |                                Lunch (45 mins)                                |
+|        13:00        |     Module 3 (Lab): Quantitative Metabolomics (David Wishart)     |        13:00        | Module 7 (Lab): Metabolomics Data Analysis using MetaboAnalyst 5.0 (Jeff Xia) |
+|        15:00        |                          Break (30 mins)                          |        15:00        |                                Break (30 mins)                                |
+|        15:30        | Module 4: Databases for Biological Interpretation (David Wishart) |        15:30        |         Module 8: Integrating Metabolomics with other Omics (Jeff Xia)        |
+|        17:00        |                              Finished                             |        17:00        |                            Survey & Closing Remarks                           |                                                                          | 17:30      | Finished                                                          |
 
 ### Montréal
 
-| Time (EDT) | June 13                                                                             | Time (EDT) | June 14                                                           |
-|------------|-------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------|
-| 8:30       | Arrivals & Check-in                                                                 | 8:30       | Arrivals                                                          |
-| 9:00       | Welcome (Nia Hughes)                                                                | 9:00       | Day 1 review Linear mixed models and evaluation (Shraddha Pai)    |
-| 9:30       | Exploratory data analysis and introducing clustering (Shraddha Pai)                 | 10:00      | Break (30 mins)                                                    |
-| 10:30      | Break (30 mins)                                                                       | 10:30      | Short linear model exercise (Shraddha Pai, Ian Cheong)            |
-| 11:00      | Exploratory data analysis and clustering project (Shraddha Pai, Ian Cheong)         | 12:30      | Class photo + Lunch (1 hr)                                          |
-| 13:00      | Lunch (1 hr)                                                                          | 13:30      | Bioconductor for differential expression (Shraddha Pai)           |
-| 14:00      | Dimensionality reduction (Chaitra Sarathy)                                          | 14:30      | Break (30 mins)                                                    |
-| 15:00      | Break (30 mins)                                                                      | 15:00      | Short differential expression exercise (Shraddha Pai, Ian Cheong) |
-| 15:30      | Short dimensionality reduction and clustering project (Chaitra Sarathy, Ian Cheong) | 17:00      | Survey & Closing Remarks                                          |
-| 17:30      | Finished                                                                            | 17:30      | Finished                                                          |
-
+| **Time (Eastern)** |                             **July 6**                            | **Time (Eastern)** |                                   **July 7**                                  |
+|:------------------:|:-----------------------------------------------------------------:|:------------------:|:-----------------------------------------------------------------------------:|
+|        10:00       |                        Arrivals & Check-in                        |        10:00       |                                    Arrivals                                   |
+|        10:30       |                        Welcome (Nia Hughes)                       |        10:30       |                                                                               |
+|        11:00       |       Module 1: Introduction to Metabolomics (David Wishart)      |        11:00       |            Module 5: Backgrounder in Omics Data Science (Jeff Xia)            |
+|        12:30       |                          Lunch (45 mins)                          |        12:30       |                                Lunch (45 mins)                                |
+|        13:15       |    Module 2: Targeted, Quantitative Metabolomic (David Wishart)   |        13:15       |              Module 6: Data Analytics for Untargeted Metabolomics             |
+|        14:15       |                          Break (45 mins)                          |        14:15       |                                 Break (45 mins)                               |
+|        15:00       |     Module 3 (Lab): Quantitative Metabolomics (David Wishart)     |        15:00       | Module 7 (Lab): Metabolomics Data Analysis using MetaboAnalyst 5.0 (Jeff Xia) |
+|        17:00       |                          Break (30 mins)                          |        17:00       |                                Break (30 mins)                                |
+|        17:30       | Module 4: Databases for Biological Interpretation (David Wishart) |        17:30       |         Module 8: Integrating Metabolomics with other Omics (Jeff Xia)        |
+|        19:00       |                              Finished                             |        19:00       |                            Survey & Closing Remarks                           |
 
 ## Pre-work
 

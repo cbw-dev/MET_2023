@@ -4,5 +4,9 @@
 
 ## Lecture
 
-![Module 1: Introduction to Metabolomics lecture slides](content-files/CBW-Metabolomics-2023-Module1.pptx.pdf){width=640% height=480}\ 
--->
+<iframe width="640" height="360" src="https://www.youtube.com/embed/J675yl94CF4?si=XE0GqSHqYSFwqdmM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+<iframe src="https://drive.google.com/file/d/1LHylrGtHy4H308a7unAJQXDlkqfxKDSj/preview" width="640" height="480" allow="autoplay"></iframe>
+

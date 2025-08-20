@@ -10,10 +10,10 @@ IF YOUR WORKSHOP INCLUDES COMPUTE:
 
 # Data
 
-#### Course data downloads
+#### Course Data Downloads
 
-[LC-MS lung cancer data](https://drive.google.com/file/d/1cvs1t7__xR6u4U7FNM2oht17Om6E3ZaF/view) <br>
-[GC-MS sleep apnea data](https://drive.google.com/file/d/1tGKu6pPbBWd3MAFtWSn5kxV0cvjX_mab/view) <br>
-[NMR sheep pregnancy data](https://drive.google.com/file/d/1GvRMVJZkVdzikDZC4RDB-ef22_Px4Xs_/view)
+* [LC-MS lung cancer data](https://drive.google.com/file/d/1cvs1t7__xR6u4U7FNM2oht17Om6E3ZaF/view) <br>
+* [GC-MS sleep apnea data](https://drive.google.com/file/d/1tGKu6pPbBWd3MAFtWSn5kxV0cvjX_mab/view) <br>
+* [NMR sheep pregnancy data](https://drive.google.com/file/d/1GvRMVJZkVdzikDZC4RDB-ef22_Px4Xs_/view)
 
 
